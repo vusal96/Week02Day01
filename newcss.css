@@ -1,0 +1,50 @@
+.main{
+	width: 70%;
+	height: 900px;
+	border: 1px solid red;
+	margin: 0 auto;
+}
+.bir{
+	margin: 20px 10px;
+	float: left;
+
+}
+.bir div{
+	width: 300px;
+	height: 390px;
+	border: 1px solid lightblue;
+	display: inline-block;
+	vertical-align: top;
+}
+.bir div div{
+	height: 225px;
+	width: 300px;
+}
+img{
+	width: 300px;
+	height: 225px;
+	float: left;
+	vertical-align: top;
+}
+p{
+	font-size: 20px;
+	font-family: Verdana;
+	color: red;
+	vertical-align: bottom;
+	
+}
+.iki{
+	margin: 20px 10px;
+	float: left;
+}
+.iki div{
+	width: 300px;
+	height: 390px;
+	border: 1px solid lightblue;
+	display: inline-block;
+	vertical-align: top;
+}
+.iki div div{
+	height: 225px;
+	width: 300px;
+}
